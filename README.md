@@ -21,7 +21,7 @@ System description : Commands that is used in this project step wise
 5.	sudo lshw –html : command to print hardware information in html format.
 
 Full Analysis :
-Step 1 : open the terminal and write sudo lshw command.
+# Step 1 : open the terminal and write sudo lshw command.
   
 # Step 2 : write lshw –short command 
  
